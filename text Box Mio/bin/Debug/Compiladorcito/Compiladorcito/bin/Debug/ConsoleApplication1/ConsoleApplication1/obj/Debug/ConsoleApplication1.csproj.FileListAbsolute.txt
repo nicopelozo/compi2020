@@ -1,0 +1,2 @@
+C:\Repositorios\compi2020\text Box Mio\bin\Debug\Compiladorcito\Compiladorcito\bin\Debug\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Repositorios\compi2020\text Box Mio\bin\Debug\Compiladorcito\Compiladorcito\bin\Debug\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
